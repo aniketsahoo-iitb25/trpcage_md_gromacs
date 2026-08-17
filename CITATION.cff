@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Trp-cage Molecular Dynamics Simulation"
+message: "If you use this project, please cite it using the information below."
+type: software
+
+authors:
+  - family-names: "Sahoo"
+    given-names: "Aniket"
+
+repository-code: "https://github.com/aniketsahoo-iitb25/trpcage_md_gromacs"
+
+license: "MIT"
+
+keywords:
+  - molecular dynamics
+  - GROMACS
+  - protein simulation
+  - Trp-cage
+  - computational biology
