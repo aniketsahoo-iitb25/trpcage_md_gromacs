@@ -1,0 +1,37 @@
+# This file was created Thu Aug 20 12:14:09 2026
+# Created by:
+#                       :-) GROMACS - gmx rmsf, 2026.3 (-:
+# 
+# Executable:   /usr/local/gromacs/bin/gmx
+# Data prefix:  /usr/local/gromacs
+# Working dir:  /home/sandip/gromacs_projects/trpcage
+# Command line:
+#   gmx rmsf -s md.tpr -f md.xtc -o rmsf.xvg -res
+# gmx rmsf is part of G R O M A C S:
+#
+# GROwing Monsters And Cloning Shrimps
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   0.0935
+    2   0.0544
+    3   0.0418
+    4   0.0408
+    5   0.0465
+    6   0.0387
+    7   0.0339
+    8   0.0443
+    9   0.0673
+   10   0.0636
+   11   0.0493
+   12   0.0577
+   13   0.0571
+   14   0.0635
+   15   0.0702
+   16   0.0583
+   17   0.0556
+   18   0.0601
+   19   0.0822
+   20   0.1438
